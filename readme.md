@@ -9,3 +9,5 @@ This is my app to track the metro timing and tell me them according to the now t
 - one is going from sealdah to sector-v
 - other is going from sector-v to sealdah
 - now i need to make myself clear about what to do with them.
+- url = "https://mtp.indianrailways.gov.in/view_section.jsp?fontColor=black&backgroundColor=LIGHTSTEELBLUE&lang=0&id=0,2,630"
+- 
